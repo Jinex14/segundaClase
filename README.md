@@ -21,5 +21,5 @@ Dentro de una terminal.
 3.- ng build --prod (genera una vista de produccion)
 4.- ng test (para correr testunitarios)
 5.- ng e2e (test de integracion)
-
+6.- ng generate component login
 
