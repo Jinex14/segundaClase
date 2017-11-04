@@ -12,3 +12,9 @@ Dentro de una terminal.
 4.- ng new clase2git-angular --routing --prefix jn --skip-install 
 
 
+-----------------
+-----Preview-----
+-----------------
+
+1.- npm install o yarn install (Para utilizar yarn debes instalar el ejectable de esta web https://yarnpkg.com/lang/en/docs/install/) 
+2.- ng server
