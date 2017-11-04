@@ -19,3 +19,4 @@ Dentro de una terminal.
 1.- npm install o yarn install (Para utilizar yarn debes instalar el ejectable de esta web https://yarnpkg.com/lang/en/docs/install/) 
 2.- ng server
 3.- ng build --prod (genera una vista de produccion)
+4.- ng test (para correr testunitarios)
